@@ -27,7 +27,7 @@ public class utility_strings {
 	
   	public static int wordCount(String text)
   	{
-  		int word_count = 0;
+  		int word_count = 5;
   		
   		
   		return word_count;
