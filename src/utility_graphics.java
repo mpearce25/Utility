@@ -1,7 +1,5 @@
-
 import java.awt.*;
 import java.applet.*;
-
 
 public class utility_graphics {
 	
